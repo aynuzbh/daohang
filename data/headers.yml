@@ -4,19 +4,19 @@
 
 - item: 作者
   icon: fa fa-user-secret
-  link: https://ikirito.me/about
+  link: https://github.com/aynuzbh
 
 - item: 博客
   icon: fa fa-blog
-  link: https://ikirito.me
+  link: https://aynu.love
 
 - item: 关于
   icon: fa fa-cog
-  link: ""
+  link: "https://www.aynu.asia/"
   list:
     - name: 源码
       icon: fab fa-github-alt
-      link: "https://github.com/i-kirito/nav.github.io"
+      link: "https://github.com/aynuzbh/daohang"
     - name: 图标
       icon: fab fa-font-awesome
       link: "https://fontawesome.com/"
